@@ -4,13 +4,12 @@ github client app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Android Studio 3.5.1
+Build #AI-191.8026.42.35.5900203, built on September 26, 2019
+JRE: 1.8.0_202-release-1483-b03 amd64
+JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+Windows 10 10.0
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+distributionUrl=https\://services.gradle.org/distributions/gradle-5.6.2-all.zip
